@@ -1,0 +1,3 @@
+/Users/jamesduffy/Documents/GithubSync/iPhone-rootFS-tool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jamesduffy/Documents/GithubSync/iPhone-rootFS-tool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jamesduffy/Documents/GithubSync/iPhone-rootFS-tool/cmake-build-debug/CMakeFiles/activationBX.dir

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jamesduffy/Documents/GithubSync/iPhone-rootFS-tool/ios.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/jamesduffy/Documents/GithubSync/iPhone-rootFS-tool/ios.h
+sys/wait.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/jamesduffy/Documents/GithubSync/iPhone-rootFS-tool/main.c
+stdio.h
+-
+zconf.h
+-
+ios.h
+/Users/jamesduffy/Documents/GithubSync/iPhone-rootFS-tool/ios.h
+
